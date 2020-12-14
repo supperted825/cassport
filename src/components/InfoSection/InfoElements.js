@@ -20,7 +20,7 @@ export const InfoWrapper = styled.div`
     justify-content: center;
 
     @media screen and (max-width: 760px) {
-        padding: 2rem 24px 1rem 24px
+        padding: 2rem 24px 1rem 24px;
     }
 `
 
