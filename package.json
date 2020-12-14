@@ -6,7 +6,7 @@
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
     "@testing-library/user-event": "^12.5.0",
-    "homepage": "http://supperted825.github.io/cassport/",
+    "homepage": "https://supperted825.github.io/cassport/",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-icons": "^4.1.0",
