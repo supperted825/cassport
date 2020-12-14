@@ -7,7 +7,7 @@ export const homeObjOne = {
     lightTextDesc: false,
     topLine: 'About Cassidy',
     headline: 'Art Enthusiast',
-    description: "Hello there   ! I am a Singaporean college undergraduate who is interested in Visual Arts as a pastime. These are some of my works over the last few years including personal works and commissions. If you are interested in commissions, do let me know!",
+    description: "Hello there ! I am a Singaporean college undergraduate who is interested in Visual Arts as a pastime. These are some of my works over the last few years including personal works and commissions. Please contact me if interested in commissions!",
     buttonLabel: 'Contact Me',
     to: 'contact',
     imgStart: false,
