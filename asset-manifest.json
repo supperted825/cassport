@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cassport/static/css/main.d5cd43b6.chunk.css",
-    "main.js": "/cassport/static/js/main.328cb086.chunk.js",
-    "main.js.map": "/cassport/static/js/main.328cb086.chunk.js.map",
+    "main.js": "/cassport/static/js/main.f55b84ac.chunk.js",
+    "main.js.map": "/cassport/static/js/main.f55b84ac.chunk.js.map",
     "runtime-main.js": "/cassport/static/js/runtime-main.80f6e986.js",
     "runtime-main.js.map": "/cassport/static/js/runtime-main.80f6e986.js.map",
     "static/js/2.5cf81749.chunk.js": "/cassport/static/js/2.5cf81749.chunk.js",
@@ -29,6 +29,7 @@
     "static/media/digital9.17c81452.PNG": "/cassport/static/media/digital9.17c81452.PNG",
     "static/media/traditional1.f55da0a7.jpg": "/cassport/static/media/traditional1.f55da0a7.jpg",
     "static/media/traditional10.f479f0db.JPG": "/cassport/static/media/traditional10.f479f0db.JPG",
+    "static/media/traditional11.806b318c.PNG": "/cassport/static/media/traditional11.806b318c.PNG",
     "static/media/traditional2.5d449ccc.jpg": "/cassport/static/media/traditional2.5d449ccc.jpg",
     "static/media/traditional3.0a7927d7.jpg": "/cassport/static/media/traditional3.0a7927d7.jpg",
     "static/media/traditional4.a67e7f7e.jpg": "/cassport/static/media/traditional4.a67e7f7e.jpg",
@@ -43,6 +44,6 @@
     "static/js/runtime-main.80f6e986.js",
     "static/js/2.5cf81749.chunk.js",
     "static/css/main.d5cd43b6.chunk.css",
-    "static/js/main.328cb086.chunk.js"
+    "static/js/main.f55b84ac.chunk.js"
   ]
 }
