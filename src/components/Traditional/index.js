@@ -10,6 +10,7 @@ import traditional7 from '../../images/traditional7.PNG'
 import traditional8 from '../../images/traditional8.JPG'
 import traditional9 from '../../images/traditional9.JPG'
 import traditional10 from '../../images/traditional10.JPG'
+import traditional11 from '../../images/traditional11.PNG'
 
 const Traditional = () => {
     return (
@@ -19,6 +20,7 @@ const Traditional = () => {
                 <Column>
                     <ColumnImg src={traditional6}/>
                     <ColumnImg src={traditional1}/>
+                    <ColumnImg src={traditional11}/>
                 </Column>
                 <Column>
                     <ColumnImg src={traditional5}/>
